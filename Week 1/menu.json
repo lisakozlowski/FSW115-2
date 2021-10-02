@@ -1,0 +1,72 @@
+{
+    "appetizers": [
+        {
+            "name": "Jalapeno poppers",
+            "ingredients": ["jalapenos", "cream cheese", "breading"],
+            "description": "Yummy jalapeno poppers served crispy!"
+        },
+
+        {
+            "name": "Garden salad",
+            "ingredients": ["Fresh greens", "cucumbers", "dressing of choice"],
+            "description": "Fresh garden salad of greens and cucumbers with dressing of choice(Ranch, Blue Cheese, Balsamic.)"
+        }
+    ],
+
+    "cold sandwiches": [
+        {
+            "name": "Ham & Swiss",
+            "ingredients": ["ham", "lettuce", "swiss", "wheat bread"], 
+            "description": "Ham and swiss on wheat bread."
+        },
+
+        {
+            "name": "Reuben",
+            "ingredients":["rye bread", "corned beef", "sauerkraut", "swiss cheese", "1000 island dressing"],
+            "description": "Reuben sandwich on Rye."
+        }
+    ],
+    
+    "hot sandwiches": [
+        {
+            "name": "Grilled Chicken Melt",
+            "ingredients":["chicken", "pepperjack cheese", "mayo", "broche bun", "lettuce"],
+            "description": "Grilled Chicken melt with pepperjack cheese on a brioche bun."
+
+        },
+
+        {
+            "name": "Philly Cheesesteak",
+            "ingredients": ["hero roll", "steak", "green peppers", "onions", "swiss cheese"],
+            "description": "Philly cheesesteak hero."
+        }
+    ],
+
+    "desserts": [
+        {
+            "name": "Strawberry cheesecake",
+            "ingredients":["butter", "cream cheese", "strawberry jam", "graham crackers", "sugar"],
+            "description": "Try a slice of our homemade strawberry cheesecake!"
+        },
+
+        {
+            "name":"Chocolate chip cookies",
+            "ingredients": ["flour", "butter", "vanilla extract", "chocolate chips"],
+            "description": "Fresh baked chocolate chip cookies."
+        }
+    ],
+
+    "drinks": [
+        {
+            "name": "Raspberry Smoothie",
+            "ingredients": ["greek yogurt", "raspberries", "strawberries", "sugar"],
+            "description": "Raspberry smoothie made with fresh fruit."
+        },
+
+        {
+            "name": "Chamomile tea",
+            "ingredients": ["water", "chamomile tea", "honey"],
+            "description": "Hot Chamomile tea."
+        }
+    ]
+}
