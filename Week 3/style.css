@@ -1,0 +1,29 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: rgb(247, 159, 159);
+    text-align: center;
+}
+
+body {
+    margin-bottom: 2%;
+}
+
+.heading {
+    margin-top: 5%;
+}
+
+button {
+    padding:7px;
+    border-radius: 15px;
+    margin: 2%;
+}
+
+#pokemonList {
+    margin: 0 auto;
+    margin-bottom: 2%;
+    border: solid dotted purple;
+    width: 300px;
+}
