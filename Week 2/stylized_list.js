@@ -83,7 +83,8 @@ var catFacts=[
 
 var catList = document.getElementById("list")
 
-for (var i = 0; i < catFacts.length; i++) {
-    catList.innerHTML += "<li>" + catFacts[i] + "</li>"
+for (let i = 0; i < catFacts.length; i++) {
+    const h1 = document.createElement('h1');
+    h1.textContent = catList.innerHTML += "<li>" + catFacts[i] + "</li>";
+    catList.appendChild(h1);
 }
-
